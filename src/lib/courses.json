@@ -1,0 +1,353 @@
+
+[
+  {
+    "id": "c001",
+    "skill": "React",
+    "title": "React - The Complete Guide",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
+  },
+  {
+    "id": "c002",
+    "skill": "Node.js",
+    "title": "The Complete Node.js Developer Course",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/"
+  },
+  {
+    "id": "c003",
+    "skill": "Python",
+    "title": "Python for Everybody",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/specializations/python"
+  },
+  {
+    "id": "c004",
+    "skill": "Java",
+    "title": "Java Programming and Software Engineering Fundamentals",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/specializations/java-programming"
+  },
+  {
+    "id": "c005",
+    "skill": "SQL",
+    "title": "SQL for Data Science",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/learn/sql-for-data-science"
+  },
+  {
+    "id": "c006",
+    "skill": "TypeScript",
+    "title": "Understanding TypeScript",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/understanding-typescript/"
+  },
+  {
+    "id": "c007",
+    "skill": "AWS",
+    "title": "AWS Certified Cloud Practitioner",
+    "provider": "Amazon",
+    "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/"
+  },
+  {
+    "id": "c008",
+    "skill": "Communication",
+    "title": "Improving Communication Skills",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/learn/good-with-words"
+  },
+  {
+    "id": "c009",
+    "skill": "Teamwork",
+    "title": "High-Performance Collaboration: Leadership, Teamwork, and Negotiation",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/learn/collaboration"
+  },
+  {
+    "id": "c010",
+    "skill": "Leadership",
+    "title": "Leadership and Influence",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/learn/leadership-influence"
+  },
+  {
+    "id": "c011",
+    "skill": "Problem Solving",
+    "title": "Effective Problem-Solving and Decision-Making",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/learn/problem-solving"
+  },
+  {
+    "id": "c012",
+    "skill": "Agile",
+    "title": "Introduction to Agile Development and Scrum",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/learn/agile-development-and-scrum"
+  },
+  {
+    "id": "c013",
+    "skill": "JavaScript",
+    "title": "JavaScript: The Advanced Concepts",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/advanced-javascript-concepts/"
+  },
+  {
+    "id": "c014",
+    "skill": "Docker",
+    "title": "Docker and Kubernetes: The Complete Guide",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/"
+  },
+  {
+    "id": "c015",
+    "skill": "Kubernetes",
+    "title": "Kubernetes for Developers",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/learn/kubernetes-developers"
+  },
+  {
+    "id": "c016",
+    "skill": "Git",
+    "title": "Git Complete: The definitive guide",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/git-complete/"
+  },
+  {
+    "id": "c017",
+    "skill": "Machine Learning",
+    "title": "Machine Learning Specialization",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/specializations/machine-learning-introduction"
+  },
+  {
+    "id": "c018",
+    "skill": "Data Structures",
+    "title": "Data Structures and Algorithms Specialization",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/specializations/data-structures-algorithms"
+  },
+  {
+    "id": "c019",
+    "skill": "Algorithms",
+    "title": "Algorithms Specialization",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/specializations/algorithms"
+  },
+  {
+    "id": "c020",
+    "skill": "System Design",
+    "title": "Grokking the System Design Interview",
+    "provider": "Educative",
+    "url": "https://www.educative.io/courses/grokking-the-system-design-interview"
+  },
+  {
+    "id": "c021",
+    "skill": "Angular",
+    "title": "Angular - The Complete Guide",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/the-complete-guide-to-angular-2/"
+  },
+  {
+    "id": "c022",
+    "skill": "Vue.js",
+    "title": "Vue - The Complete Guide",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/vuejs-2-the-complete-guide/"
+  },
+  {
+    "id": "c023",
+    "skill": "C++",
+    "title": "Beginning C++ Programming",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/beginning-c-plus-plus-programming/"
+  },
+  {
+    "id": "c024",
+    "skill": "C#",
+    "title": "Complete C# Unity Game Developer 2D",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/unitycourse/"
+  },
+  {
+    "id": "c025",
+    "skill": "Go",
+    "title": "Go: The Complete Developer's Guide",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/go-the-complete-developers-guide/"
+  },
+  {
+    "id": "c026",
+    "skill": "Rust",
+    "title": "Ultimate Rust Crash Course",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/ultimate-rust-crash-course/"
+  },
+  {
+    "id": "c027",
+    "skill": "MongoDB",
+    "title": "MongoDB - The Complete Developer's Guide",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/mongodb-the-complete-developers-guide/"
+  },
+  {
+    "id": "c028",
+    "skill": "PostgreSQL",
+    "title": "SQL and PostgreSQL: The Complete Developer's Guide",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/sql-and-postgresql/"
+  },
+  {
+    "id": "c029",
+    "skill": "Redis",
+    "title": "Redis: The Complete Developer's Guide",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/redis-the-complete-developers-guide-p/"
+  },
+  {
+    "id": "c030",
+    "skill": "GraphQL",
+    "title": "GraphQL with React: The Complete Developers Guide",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/graphql-with-react-course/"
+  },
+  {
+    "id": "c031",
+    "skill": "REST API",
+    "title": "REST APIs with Flask and Python",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/rest-api-flask-and-python/"
+  },
+  {
+    "id": "c032",
+    "skill": "CI/CD",
+    "title": "DevOps: CI/CD with Jenkins pipelines",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/devops-and-continuous-integration-with-jenkins/"
+  },
+  {
+    "id": "c033",
+    "skill": "Testing",
+    "title": "Testing JavaScript Applications",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/testing-javascript/"
+  },
+  {
+    "id": "c034",
+    "skill": "Android",
+    "title": "Android Development for Beginners",
+    "provider": "Udacity",
+    "url": "https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803"
+  },
+  {
+    "id": "c035",
+    "skill": "iOS",
+    "title": "iOS App Development with Swift",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/specializations/app-development"
+  },
+  {
+    "id": "c036",
+    "skill": "Flutter",
+    "title": "Flutter & Dart - The Complete Guide",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/"
+  },
+  {
+    "id": "c037",
+    "skill": "React Native",
+    "title": "The Complete React Native + Hooks Course",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/course/the-complete-react-native-and-redux-course/"
+  },
+  {
+    "id": "c038",
+    "skill": "Deep Learning",
+    "title": "Deep Learning Specialization",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/specializations/deep-learning"
+  },
+  {
+    "id": "c039",
+    "skill": "TensorFlow",
+    "title": "TensorFlow Developer Professional Certificate",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice"
+  },
+  {
+    "id": "c040",
+    "skill": "PyTorch",
+    "title": "Deep Learning with PyTorch",
+    "provider": "Udacity",
+    "url": "https://www.udacity.com/course/deep-learning-pytorch--ud188"
+  },
+  {
+    "id": "c041",
+    "skill": "DevOps",
+    "title": "DevOps Engineering Course for Beginners",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/"
+  },
+  {
+    "id": "c042",
+    "skill": "Cloud Computing",
+    "title": "Cloud Computing Specialization",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/specializations/cloud-computing"
+  },
+  {
+    "id": "c043",
+    "skill": "Azure",
+    "title": "Microsoft Azure Fundamentals",
+    "provider": "Microsoft",
+    "url": "https://learn.microsoft.com/en-us/training/courses/az-900t00"
+  },
+  {
+    "id": "c044",
+    "skill": "GCP",
+    "title": "Google Cloud Platform Fundamentals",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/learn/gcp-fundamentals"
+  },
+  {
+    "id": "c045",
+    "skill": "Blockchain",
+    "title": "Blockchain Specialization",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/specializations/blockchain"
+  },
+  {
+    "id": "c046",
+    "skill": "Cybersecurity",
+    "title": "Cybersecurity Specialization",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/specializations/cyber-security"
+  },
+  {
+    "id": "c047",
+    "skill": "Data Analysis",
+    "title": "Google Data Analytics Professional Certificate",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+  },
+  {
+    "id": "c048",
+    "skill": "Data Science",
+    "title": "IBM Data Science Professional Certificate",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/ibm-data-science"
+  },
+  {
+    "id": "c049",
+    "skill": "UI/UX Design",
+    "title": "Google UX Design Professional Certificate",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/google-ux-design"
+  },
+  {
+    "id": "c050",
+    "skill": "Project Management",
+    "title": "Google Project Management Professional Certificate",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/google-project-management"
+  }
+]
